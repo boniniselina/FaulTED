@@ -1,5 +1,6 @@
 # FaulTED
-<img width="500" height="143" alt="logo" src="https://github.com/user-attachments/assets/c4759f7e-79c7-438c-b6d6-4dfe033eec2f" />
+
+<img width="500" height="143" alt="logo" src="https://github.com/user-attachments/assets/a0dbcb5f-1bc0-41cb-bcd2-3725f317fff8" />
 
 
 FaulTED is a new MATLAB-based toolkit for Probabilistic Fault Displacement Hazard Analysis (PFDHA), integrating multiple published models, magnitude-frequency distributions, fault scaling relationships and surface rupture probability functions referring to different fault kinematics styles (i.e., normal, reverse, strike-slip faults), which are available in scientific literature. The toolkit features two main modules: 
