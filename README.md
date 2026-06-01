@@ -8,13 +8,13 @@ FaulTED is a new MATLAB-based toolkit for Probabilistic Fault Displacement Hazar
 (ii) a fault-specific hazard map generator for user-defined return periods. 
 
 Both modules account for on fault and distributed off-fault ruptures, explicitly incorporating the floating rupture approach commonly adopted in probabilistic seismic hazard analysis. 
-This toolkit was developed in the framework of Dr. Selina Bonini's PhD project (University of Bologna, co-founded by Italferr S.p.A., and in collaboration with Autorité de Sûreté Nucléaire et de Radioprotection - ASNR, Istituto di Geofisica e Vulcanologia - INGV, and Università degli Studi "G. D'Annunzio" Chieti e Pescara). 
+This toolkit was developed in the framework of Dr. Selina Bonini's PhD project (University of Bologna, co-founded by FS Engineering S.p.A. - former Italferr S.p.A. - , and in collaboration with Autorité de Sûreté Nucléaire et de Radioprotection - ASNR, Istituto di Geofisica e Vulcanologia - INGV, Università degli Studi "G. D'Annunzio" Chieti e Pescara and University of Vienna). 
 
 The code is written in MATLAB (v.R2024a).
-This repository contains two .zip folders (referring to the specific tool), each of them including three main directories: 
+This repository contains one .zip folder including two folders (one per tool), each of them presenting three main directories: 
     (i) Input, where input files can be placed; 
     (ii) Output, where the code stores the modeling results in a dedicated folder created for each run; and 
     (iii) Sources, which contains all the source codes used by the main script to perform the calculations. The main script is located outside these directories along with a “Read me” in .pptx format. 
 
-The source code is described in  a manuscript in preparation for submission to the journal Earthquake Spectra: 
+The source code is described in a manuscript submitted to the journal Earthquake Spectra: 
 Bonini, S., O. Scotti, A. Valentini, F. Visini, B. Pace, G. Tartaglia, G. Viola, G. Vignaroli. FaulTED: a probabilistic fault displacement hazard code exploring floating ruptures scenarios and epistemic uncertainties.
