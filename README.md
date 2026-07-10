@@ -18,3 +18,5 @@ This repository contains one .zip folder including two folders (one per tool), e
 
 The source code is described in a manuscript submitted to the journal Earthquake Spectra: 
 Bonini, S., O. Scotti, A. Valentini, F. Visini, B. Pace, G. Tartaglia, G. Viola, G. Vignaroli. FaulTED: a probabilistic fault displacement hazard code exploring floating ruptures scenarios and epistemic uncertainties.
+
+The code and derivatives are published under the Creative Commons license CC-BY-NC.
